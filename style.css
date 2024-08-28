@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    box-shadow: 0px 0px 0px 1px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+main{
+   h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;}
+    text-align: center;
+    background-image: url(Fondo\ de\ Body.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgb(255, 255, 255, 0.568);
+}
+img{
+    max-width: 250px;
+    max-height: 300px;
+}
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkgray;
+    box-shadow: 0px 0px 0px 1px;
+    padding: 1rem;
+    margin-bottom: 0rem;
+}
+footer section{
+    text-align: right;
+    img{
+        width: 120px;
+        height: 90px;
+    }
+}
